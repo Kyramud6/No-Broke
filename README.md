@@ -1,7 +1,8 @@
 # 💰 No Broke
 
 <p align="center">
-<img width="500" height="500" alt="No_Broke-removebg-preview" src="https://github.com/user-attachments/assets/f304afa8-71c2-4833-8a80-b506e0145283" />
+<img width="500" height="500" alt="No_Broke__1_-removebg-preview" src="https://github.com/user-attachments/assets/aafe701d-2ab0-48c6-8fe6-084c38cc8756" />
+
 </p>
 A simple yet powerful **Expense Tracker** built with PHP, HTML, and Bootstrap.  
 “No Broke” helps users manage their daily spending, monitor savings, and visualize their expenses with clear insights and reports.
